@@ -3,6 +3,7 @@
     <img alt="Vue logo" src="./assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
     <div>我修改啦</div>
+    <div>我写了十行代码</div>
   </div>
 </template>
 
